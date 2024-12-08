@@ -1,0 +1,16 @@
+# Ignore system files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# Ignore Windows-specific files
+AppData/
+desktop.ini
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
